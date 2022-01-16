@@ -1,7 +1,7 @@
 /*
- * PROBLEMA: dado um array de numeros e um alvo, escever um algoritimo que encontre todas as combinações de dois numeros que somados deem o valor alvo
- * quando uma combinação for encontrada , imprimir os numeros e os indices correspondentes.
- * não somar o numero de uma posição do array com ele mesmo 
+ * PROBLEMA: dado um array de numeros e um alvo, escever um algoritimo que encontre todas as combinaÃ§Ãµes de dois numeros que somados deem o valor alvo
+ * quando uma combinaÃ§Ã£o for encontrada , imprimir os numeros e os indices correspondentes.
+ * nÃ£o somar o numero de uma posiÃ§Ã£o do array com ele mesmo 
  * executar algoritimo com as seguintes entradas
  * array:[1, 2, 3, 4, 5, 6, 7, 8, 9] / valor alvo 10 
  * array:[3, 8, 9, 6, 8, 5,] valor alvo 10
@@ -48,11 +48,3 @@ public class vertores_aberto1 {
 	}
 
 }
-//criando vetores
-//inciando vetores e dando tamanho a eles
-//criando variavel [i]	
-//enquanto a for menor que 10 adicionar mais um 
-//criando variavel soma
-//somar somente quando i for diferente de a	 
-//somando vetores i + a
-// se a soma for 10 imprima resultados
